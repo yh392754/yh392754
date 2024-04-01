@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Introduction 
+영남대학교 컴퓨터공학과 재학 중 
+
+## Career 
+
+## Links
+
+## Course
+
+## 
