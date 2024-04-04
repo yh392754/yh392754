@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yh392754&show_icons=true&theme=radical)
+
+
 
 ## Introduction 
 안녕하세요!! 
