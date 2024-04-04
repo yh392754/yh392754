@@ -17,12 +17,15 @@ Here are some ideas to get you started:
 
 
 ## Introduction 
-영남대학교 컴퓨터공학과 재학 중 
+안녕하세요!! 
 
 ## Career 
+영남대학교 컴퓨터공학과 재학 중 
 
-## Links
+## Links 
+E-mail : tjghdud1000@naver.com
 
 ## Course
-
+#6DB33F
+#232F3E
 ## 
